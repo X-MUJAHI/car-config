@@ -1,0 +1,6 @@
+{
+  "name": "VANTA — A Cinematic 3D Automotive Experience",
+  "description": "An ultra-premium interactive 3D hypercar experience and configurator powered by Three.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
